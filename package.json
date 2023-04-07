@@ -1,0 +1,35 @@
+{
+  "name": "dark-blue-angel",
+  "displayName": "Dark Blue Angel",
+  "description": "This theme has a dark bkue background for night time and also has a nice contrast with the code being typed. Think one dark Pro with white variables",
+  "version": "0.0.1",
+  "publisher": "PhilipEze",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Philballer/Vscode-dark-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark blue",
+    "dark blue angel",
+    "one dark pro",
+    "best theme",
+    "PhilipEze"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Blue Angel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Blue Angel-color-theme.json"
+      }
+    ]
+  }
+}
