@@ -1,8 +1,8 @@
 {
-  "name": "dark-blue-angel",
-  "displayName": "Dark Blue Angel",
-  "description": "This theme has a dark bkue background for night time and also has a nice contrast with the code being typed. Think one dark Pro with white variables",
-  "version": "0.0.1",
+  "name": "one-dark-blue",
+  "displayName": "One Dark Blue",
+  "description": "This theme has a dark blue background for night time and also has a nice contrast with the code being typed. Think one dark Pro with white variables. I got tired of looking for a theme with the perfect vibe, no italics and a cool blue background that increases productivity in a dark environment",
+  "version": "1.2.1",
   "publisher": "PhilipEze",
   "engines": {
     "vscode": "^1.77.0"
@@ -20,8 +20,11 @@
     "dark blue",
     "dark blue angel",
     "one dark pro",
+    "one dark blur",
     "best theme",
-    "PhilipEze"
+    "Philip Eze",
+    "phil eze",
+    "baller"
   ],
   "contributes": {
     "themes": [
