@@ -2,8 +2,8 @@
   "name": "one-dark-blue",
   "displayName": "One Dark Blue",
   "description": "This theme has a dark blue background for night time and also has a nice contrast with the code being typed. Think one dark Pro with white variables. I got tired of looking for a theme with the perfect vibe, no italics and a cool blue background that increases productivity in a dark environment",
-  "version": "1.2.5",
-  "publisher": "Philip Eze",
+  "version": "1.3.0",
+  "publisher": "PhilipEze",
   "engines": {
     "vscode": "^1.77.0"
   },

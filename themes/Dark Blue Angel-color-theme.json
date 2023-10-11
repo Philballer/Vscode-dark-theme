@@ -64,7 +64,7 @@
     "editorGroupHeader.noTabsBackground": "#061a35",
     "editorGroupHeader.tabsBackground": "#061a35",
     "editorGroupHeader.tabsBorder": "#262A39",
-    "tab.activeBackground": "#041224",
+    "tab.activeBackground": "#03011a",
     "tab.activeForeground": "#d2dee7",
     "tab.border": "#061a35",
     "tab.activeBorder": "#33437c",
@@ -154,9 +154,9 @@
     "statusBarItem.hoverBackground": "#202431",
     "statusBarItem.prominentBackground": "#202431",
     "statusBarItem.prominentHoverBackground": "#202431",
-    "titleBar.activeBackground": "#061a35",
+    "titleBar.activeBackground": "#03011a",
     "titleBar.activeForeground": "#eeefff",
-    "titleBar.inactiveBackground": "#03011a",
+    "titleBar.inactiveBackground": "#061a35",
     "notifications.background": "#01111d",
     "notifications.border": "#262a39",
     "notificationCenter.border": "#262a39",
@@ -294,7 +294,6 @@
         "support.constant",
         "constant.character",
         "constant.escape",
-        "variable.parameter",
         "keyword.other.unit",
         "keyword.other"
       ],
@@ -302,6 +301,22 @@
         "foreground": "#F78C6C"
       }
     },
+
+    {
+      "name": "Called parameters in a function",
+      "scope": ["variable.other.readwrite", "source"],
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+    {
+      "name": "defining the parameter",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#fff"
+      }
+    },
+
     {
       "name": "String, Symbols, Inherited Class, Markup Heading",
       "scope": [
